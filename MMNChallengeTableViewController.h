@@ -1,5 +1,5 @@
 //
-//  MMNViewController.h
+//  MMNChallengeTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Murdo MacNab on 28/04/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MMNViewController : UIViewController
+@interface MMNChallengeTableViewController : UITableViewController
 
 @end
